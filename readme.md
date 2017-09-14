@@ -6,6 +6,6 @@ Jaossa on työkirjat (.twbx), joihin on upotettuna tietolähde, työkirjoissa k�
 
 Ohjeet-kansiossa on ohjeet kunkin visualisoinnin laatimiselle käyttäen mainittua tietolähdettä.
 
-Työkirjoissa käytetty data on kerätty julkisista lähteistä.
+Työkirjoissa käytetty data on kerätty julkisista lähteistä tai generoitu satunnaisesti.
 
 Työkirjoja ja oppimateriaaleja saa käyttää vapaasti, suotavaa on toki viitata ALM Partnersiin, mikäli työkirjoja käytetään sellaisenaan.
